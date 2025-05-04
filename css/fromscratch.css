@@ -1,0 +1,57 @@
+body {
+    font-family: 'Courier New', sans-serif;
+    color: dimgray; /* Dark gray font color */
+    background-color: #f0f8ff; /* Light blue background */
+}
+
+/* Header style with custom font color */
+h1 {
+    color: #4CAF50; /* Green font color */
+    text-align: center;
+}
+
+/* A paragraph with custom font family and color */
+p {
+    font-family: 'Arial', serif;
+    color: #555; /* Medium gray */
+    font-size: 18px;
+}
+
+/* Style for div with positioning */
+#div1 {
+    width: 300px;
+    height: 200px;
+    background-color: #ffcccb; /* Light pink */
+    position: absolute;
+    top: 2300;
+    left: 900px;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #d9534f; /* Red border */
+}
+
+/* Style for div2, positioned differently */
+#div2 {
+    width: 200px;
+    height: 150px;
+    background-color: #e7e7e7; /* Light gray */
+    position: absolute;
+    top: 2000px;
+    left: 900px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #5bc0de; /* Blue border */
+}
+
+/* Style for div3, placed at the bottom */
+#div3 {
+    width: 250px;
+    height: 200px;
+    background-color: #d3ffd3; /* Light green */
+    position: absolute;
+    top: 2600;
+    left: 1000px;
+    padding: 15px;
+    text-align: center;
+    border: 2px solid #5cb85c; /* Green border */
+}
